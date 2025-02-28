@@ -25,3 +25,6 @@ equation
 end MyModel;
 ```
 
+(See https://github.com/pierre-haessig/modelica-package-conflict/network for the branching pattern which created the conflict)
+
+The componion OpenModelica issue is at https://github.com/OpenModelica/OpenModelica/issues/13663
